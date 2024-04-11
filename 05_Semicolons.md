@@ -1,6 +1,6 @@
 ## Semicolons
 
-## 分号
+## 分号1
 
 Like C, Go's formal grammar uses semicolons to terminate statements, but unlike in C, those semicolons do not appear in the source. Instead the lexer uses a simple rule to insert semicolons automatically as it scans, so the input text is mostly free of them.
 
